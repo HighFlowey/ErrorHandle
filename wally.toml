@@ -1,0 +1,9 @@
+[package]
+name = "highflowey/errorhandle"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+description = "Inspired by promise"
+realm = "shared"
+description
+
+[dependencies]
